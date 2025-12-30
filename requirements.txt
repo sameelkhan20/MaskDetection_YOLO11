@@ -1,6 +1,17 @@
+# Streamlit for web app
 streamlit==1.28.0
+
+# Ultralytics YOLO11
 ultralytics==8.2.20
-numpy
-opencv-python-headless
-Pillow
-torch
+
+# PyTorch (CPU/GPU compatible)
+torch>=2.2.0
+
+# Numpy for array operations
+numpy>=1.25.0
+
+# OpenCV headless version for Cloud deployment (no GUI required)
+opencv-python-headless==4.8.0.74
+
+# Pillow for image loading and conversion
+Pillow>=10.0.0
