@@ -1,7 +1,6 @@
-streamlit
-ultralytics
+streamlit==1.28.0
+ultralytics==8.2.20
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 torch
-
